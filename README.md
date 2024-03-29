@@ -61,7 +61,7 @@ To facilitate readability, I've showcased the top three models below. For additi
 ![Alt Text](https://github.com/musairshad/NLP-Project/blob/main/Images/tuned%20log%20reg%20roc%20curve.png)
 
 ##### Tuned RandomForest Classifier
-[Alt Text](https://github.com/musairshad/NLP-Project/blob/main/Images/tuned%20random%20forest%20confusion.png)
+![Alt Text](https://github.com/musairshad/NLP-Project/blob/main/Images/tuned%20random%20forest%20confusion.png)
 
 ![Alt Text](https://github.com/musairshad/NLP-Project/blob/main/Images/tuned%20random%20forest%20roc%20curve.png)
 
@@ -69,6 +69,15 @@ To facilitate readability, I've showcased the top three models below. For additi
 - We recommend Svc tuned model which has a Recall score of 1.0 for positive sentiment tweet and accuracy score and precision score of 85.6. 
 - One of the most used words was 'New', 'Case' for Apple, 'phone' and 'tablet' for google so GoldenGroup can invest in Accessories company for Iphone, Ipad and google products.
 - GoldenGroup also has an opportunity of investing in event planner companies for Apple and Google as they both have positive feedback from users about events
+
+## Repository Structure
+.
+├── data/
+│   └── crowdflower-brands-and-product-emotions
+├── Images/
+├── NLP Project.ipynb
+├── README.md
+└── Twitter Sentiment Analysis.pdf
 
 
 
