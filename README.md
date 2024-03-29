@@ -71,13 +71,15 @@ To facilitate readability, I've showcased the top three models below. For additi
 - GoldenGroup also has an opportunity of investing in event planner companies for Apple and Google as they both have positive feedback from users about events
 
 ## Repository Structure
-.
-├── data/
-│   └── crowdflower-brands-and-product-emotions
+
+```
+├── crowdflower-brands-and-product-emotions
+│    
 ├── Images/
 ├── NLP Project.ipynb
 ├── README.md
 └── Twitter Sentiment Analysis.pdf
+```
 
 
 
